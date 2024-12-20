@@ -1,8 +1,8 @@
-git init
+1.git init
 -----------------
-git add
+2?git add
 ------------------
-git status
+3git status
 ---------------------------------
 git commit -m "add basic data"
 git log
@@ -11,3 +11,5 @@ git pulll
 ----------------------------
 git worflow
 git branch
+----------------------
+------ pour séparer 
